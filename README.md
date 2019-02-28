@@ -6,4 +6,4 @@ Bootstrap was used for the design. Modals were implemented on the project images
 
 # Run this Project
 Clone or download ZIP
-Open states.html
+Open states.html.
